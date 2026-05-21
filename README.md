@@ -7,7 +7,7 @@ Questions are organized subject-wise and unit-wise for easier exam preparation.
 ## Contents
 
 - DBMS
-  
+- NoSQL
 
 ## Note
 
