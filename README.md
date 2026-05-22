@@ -9,6 +9,7 @@ Questions are organized subject-wise and unit-wise for easier exam preparation.
 - DBMS
 - NoSQL
 - ATCD
+- OS
 
 ## Note
 
