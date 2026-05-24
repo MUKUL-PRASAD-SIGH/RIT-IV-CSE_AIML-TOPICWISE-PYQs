@@ -10,6 +10,7 @@ Questions are organized subject-wise and unit-wise for easier exam preparation.
 - NoSQL
 - ATCD
 - OS
+- DAA (NOTION)
 
 ## Note
 
